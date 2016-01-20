@@ -1,0 +1,13 @@
+body {
+	font-family: tahoma;
+	text-align: center;
+	margin: 100px;
+}
+
+img {
+	height: 300px;
+}
+
+.stop {
+	display: none;
+}
