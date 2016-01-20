@@ -1,13 +1,12 @@
 body {
-	font-family: tahoma;
-	text-align: center;
-	margin: 100px;
-}
+  font-family: tahoma;
+  text-align: center;
+  margin: 100px; }
 
 img {
-	height: 300px;
-}
+  height: 300px; }
 
 .stop {
-	display: none;
-}
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
